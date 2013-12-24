@@ -1,3 +1,5 @@
+// DONT MIND THIS FILE
+
 // https://github.com/dstromberg2/maze-generator
 
 function newMaze(x, y) {

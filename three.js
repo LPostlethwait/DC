@@ -4,6 +4,8 @@
  * @author bhouston / http://exocortex.com
  */
 
+// IGNORE THIS FILE
+
 var THREE = { REVISION: '64' };
 
 self.console = self.console || {
